@@ -6,7 +6,7 @@ pushd build
 ninja
 popd
 
-echo '{APP.NAME} is built.'
+echo 'My Lovely App is built.'
 echo ''
 echo 'Run it with:'
-echo 'build/com.github.{GITHUB.ORG}.{GITHUB.APP}'
+echo 'build/com.github.small_tech.my_lovely_app'

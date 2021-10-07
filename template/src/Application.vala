@@ -1,20 +1,20 @@
 /*
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: {COPYRIGHT.YEAR} {COPYRIGHT.NAME} <{COPYRIGHT.EMAIL}>
+ * SPDX-FileCopyrightText: 2021 Aral Balkan <mail@ar.al>
  */
 
-namespace {APP.NAMESPACE} {
+namespace MyLovelyApp {
     public GLib.Settings saved_state;
 
     public class Application : Gtk.Application {
 
         public Application () {
             Object(
-                application_id: "com.github.{GITHUB.ORG}.{GITHUB.APP}",
+                application_id: "com.github.small_tech.my_lovely_app",
                 flags: ApplicationFlags.FLAGS_NONE
             );
 
-            saved_state = new GLib.Settings ("com.github.{GITHUB.ORG}.{GITHUB.APP}.saved-state");
+            saved_state = new GLib.Settings ("com.github.small_tech.my_lovely_app.saved-state");
         }
 
         protected override void activate () {

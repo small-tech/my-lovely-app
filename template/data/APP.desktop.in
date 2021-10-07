@@ -1,12 +1,12 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name={APP.NAME}
-GenericName={APP.GENERIC_NAME}
-Comment={APP.COMMENT}
-Categories={APP.CATEGORIES}
-Exec=com.github.{GITHUB.ORG}.{GITHUB.APP}
-Icon=com.github.{GITHUB.ORG}.{GITHUB.APP}
+Name=My Lovely App
+GenericName=Lovely App
+Comment=Lovely app
+Categories=Education
+Exec=com.github.small_tech.my_lovely_app
+Icon=com.github.small_tech.my_lovely_app
 Terminal=false
-Keywords={APP.KEYWORDS}
+Keywords=lovely;app
 X-GNOME-UsesNotifications=true
