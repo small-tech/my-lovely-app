@@ -1,0 +1,42 @@
+# French translations for com.github.small_tech.my_lovely_app package.
+# Copyright (C) 2021 THE com.github.small_tech.my_lovely_app'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.small_tech.my_lovely_app package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.small_tech.my_lovely_app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-07 14:13+0100\n"
+"PO-Revision-Date: 2021-10-07 14:13+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: data/my_lovely_app.desktop.in:5 data/my_lovely_app.appdata.xml.in:12
+msgid "My Lovely App"
+msgstr ""
+
+#: data/my_lovely_app.desktop.in:6
+msgid "Lovely App"
+msgstr ""
+
+#: data/my_lovely_app.desktop.in:7
+msgid "Lovely app"
+msgstr ""
+
+#: data/my_lovely_app.desktop.in:10
+msgid "com.github.small_tech.my_lovely_app"
+msgstr ""
+
+#: data/my_lovely_app.desktop.in:12
+msgid "lovely;app"
+msgstr ""
+
+#: data/my_lovely_app.appdata.xml.in:13 data/my_lovely_app.appdata.xml.in:15
+msgid "It’s a lovely app"
+msgstr ""
